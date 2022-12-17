@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashraut41
-- 👀 I’m interested in Computer Graphics, Android Development, Native Development Win32 SDK, 
-- 🌱 I’m currently learning C++ with Qt 
+- 👀 I’m interested in Computer Graphics, Android Development, Native Development Win32 SDK, ThreeJS.. 
+- 🌱 I’m currently working at ProtoTech Solutions as Associate Software Developer.
 - 💞️ I’m looking to collaborate on OpenGL, WebGL 
 - 📫 How to reach me ...@raut_yashwant is my twitter handle 
 

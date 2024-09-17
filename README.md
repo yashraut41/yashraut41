@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @yashraut41
-- 👀 I’m interested in Computer Graphics, Android Development, Native Development Win32 SDK, ThreeJS.. 
-- 🌱 I’m currently working at ProtoTech Solutions as Associate Software Developer.
-- 💞️ I’m looking to collaborate on OpenGL, WebGL 
+- 👋 Hi, I’m Yashwant Raut
+- 👀 I’m interested in making Front-End more interactinve and immersive using ThreeJS, React-three-fiber, WebGL  
+- 💞️ I’m looking to collaborate on OpenGL, WebGL, ThreeJS 
 - 📫 How to reach me ...@raut_yashwant is my twitter handle 
 
 <!---
